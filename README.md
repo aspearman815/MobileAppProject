@@ -1,5 +1,5 @@
 Project Name: The Haunting Hour
-4 Creators: Keshav Sukirya, Amara Spearman, Priya Bhowmick 6 Instructions: 
+Creators: Keshav Sukirya, Amara Spearman, Priya Bhowmick 6 Instructions: 
 Hello dear reader! If you wish to run our project, please complete the following steps:
 
 
